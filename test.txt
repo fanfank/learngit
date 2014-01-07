@@ -1,1 +1,2 @@
+#!/usr/bin/env python
 hey I'm test.txt
